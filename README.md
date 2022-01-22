@@ -1,4 +1,4 @@
-# Logistic regression - Simple Apllication
+# Logistic regression - Simple Application
 
 
 This project aims to predict the status of a candidate, whether or not the candidate will be placed in a company and checks the accuracy of the prediction made.
